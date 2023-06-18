@@ -15,7 +15,7 @@ const PrimaryDropDownMenu = ({ setTogglePrimaryDropDown, user }) => {
     const dispatch = useDispatch();
     const navigate = useNavigate();
     const { enqueueSnackbar } = useSnackbar();
-
+ 
     const { wishlistItems } = useSelector((state) => state.wishlist);
 
     const handleLogout = () => {

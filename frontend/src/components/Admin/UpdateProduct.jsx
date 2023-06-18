@@ -11,7 +11,7 @@ import ImageIcon from '@mui/icons-material/Image';
 import BackdropLoader from '../Layouts/BackdropLoader';
 import { categories } from '../../utils/constants';
 import MetaData from '../Layouts/MetaData';
-
+ 
 const UpdateProduct = () => {
 
     const dispatch = useDispatch();

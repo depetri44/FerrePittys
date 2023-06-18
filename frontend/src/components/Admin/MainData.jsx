@@ -15,7 +15,7 @@ const MainData = () => {
     const { products } = useSelector((state) => state.products);
     const { orders } = useSelector((state) => state.allOrders);
     const { users } = useSelector((state) => state.users);
-
+ 
     let outOfStock = 0;
 
     products?.forEach((item) => {

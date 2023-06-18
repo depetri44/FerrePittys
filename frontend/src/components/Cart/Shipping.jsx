@@ -41,7 +41,7 @@ const Shipping = () => {
     }
 
     return (
-        <>
+        <> 
             <MetaData title="Ferreteria Pitty | Detalles del Pedido" />
             <main className="w-full mt-20">
 

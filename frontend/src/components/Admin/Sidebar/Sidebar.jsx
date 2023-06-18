@@ -14,7 +14,7 @@ import './Sidebar.css';
 import { useSnackbar } from 'notistack';
 import { logoutUser } from '../../../actions/userAction';
 
-const navMenu = [
+const navMenu = [ 
     {
         icon: <EqualizerIcon />,
         label: "Panel De Administración",

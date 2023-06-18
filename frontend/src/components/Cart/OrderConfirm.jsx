@@ -15,7 +15,7 @@ const OrderConfirm = () => {
     return (
         <>
         <MetaData title="Ferreteria Pitty | Confirmación del pedido" />
-
+ 
         <main className="w-full mt-20">
 
             {/* <!-- row --> */}

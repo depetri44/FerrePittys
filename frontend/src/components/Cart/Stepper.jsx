@@ -17,7 +17,7 @@ const Stepper = ({ activeStep, children }) => {
             label: "DIRECCIÓN DE ENTREGA",
             desc: <p className="font-medium text-sm">{user.name} <span className="text-sm font-normal">{address}</span></p>
         },
-        {
+        { 
             label: "RESUMEN DEL PEDIDO",
             desc: <p className="font-medium text-sm">{cartItems.length} Item</p>
         },

@@ -21,7 +21,7 @@ const Searchbar = () => {
             <input value={keyword} onChange={(e) => setKeyword(e.target.value)} className="text-sm flex-1 outline-none border-none placeholder-gray-500" type="text" placeholder="Busque productos, marcas y más" />
             <button type="submit" className="text-primary-blue"><SearchIcon /></button>
         </form>
-    );
+    ); 
 };
 
 export default Searchbar;

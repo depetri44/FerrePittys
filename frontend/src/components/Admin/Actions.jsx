@@ -15,7 +15,7 @@ const Actions = ({ id, deleteHandler, name, editRoute }) => {
     const handleClose = () => {
         setOpen(false);
     };
-
+ 
     return (
         <>
             <div className="flex justify-between items-center gap-3">

@@ -16,7 +16,7 @@ const footerLinks = [
         name: "Nosotros",
         redirect: "https://www.FerreteriaPitty.com/about-us",
       }, 
-    ]
+    ] 
   },
   {
     title: "Ayuda",

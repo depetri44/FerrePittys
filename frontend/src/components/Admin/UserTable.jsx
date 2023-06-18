@@ -12,7 +12,7 @@ const UserTable = () => {
 
     const dispatch = useDispatch();
     const { enqueueSnackbar } = useSnackbar();
-
+ 
     const { users, error } = useSelector((state) => state.users);
     const { loading, isDeleted, error: deleteError } = useSelector((state) => state.profile);
 

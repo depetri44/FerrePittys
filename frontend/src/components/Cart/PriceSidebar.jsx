@@ -15,7 +15,7 @@ const PriceSidebar = ({ cartItems }) => {
                     <div className="border border-dashed"></div>
                     <p className="flex justify-between text-lg font-medium">Cantidad total <span>${cartItems.reduce((sum, item) => sum + (item.price * item.quantity), 0).toLocaleString()}</span></p>
                     <div className="border border-dashed"></div>
-
+ 
                     <p className="font-medium text-primary-green">Salvarás ${cartItems.reduce((sum, item) => sum + ((item.cuttedPrice * item.quantity) - (item.price * item.quantity)), 0).toLocaleString()} en este pedido</p>
 
                 </div>

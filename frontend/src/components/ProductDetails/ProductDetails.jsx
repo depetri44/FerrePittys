@@ -27,7 +27,7 @@ import { getDeliveryDate, getDiscount } from '../../utils/functions';
 import { addToWishlist, removeFromWishlist } from '../../actions/wishlistAction';
 import MinCategory from '../Layouts/MinCategory';
 import MetaData from '../Layouts/MetaData'; 
-
+ 
 const ProductDetails = () => {
 
     const dispatch = useDispatch();

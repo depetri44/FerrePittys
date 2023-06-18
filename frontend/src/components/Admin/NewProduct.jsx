@@ -13,7 +13,7 @@ import MetaData from '../Layouts/MetaData';
 import BackdropLoader from '../Layouts/BackdropLoader';
 
 const NewProduct = () => {
-
+ 
     const dispatch = useDispatch();
     const { enqueueSnackbar } = useSnackbar();
     const navigate = useNavigate();

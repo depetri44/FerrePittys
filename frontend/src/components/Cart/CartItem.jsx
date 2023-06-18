@@ -18,7 +18,7 @@ const CartItem = ({ product, name, seller, price, cuttedPrice, image, stock, qua
         };
         dispatch(addItemsToCart(id, newQty));
     }
-
+ 
     const decreaseQuantity = (id, quantity) => {
         const newQty = quantity - 1;
         if (quantity <= 1) return;

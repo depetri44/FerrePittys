@@ -15,7 +15,7 @@ const Cart = () => {
     const placeOrderHandler = () => {
         navigate('/login?redirect=shipping');
     }
-
+ 
     return (
         <>
             <MetaData title="Carro de la compra | Ferreteria Pitty" />

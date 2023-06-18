@@ -8,7 +8,7 @@ import Product from './Product';
 const ProductSlider = ({ title, tagline }) => {
 
     const { loading, products } = useSelector((state) => state.products);
-  
+   
     return (
         <section className="bg-white w-full shadow overflow-hidden">
             {/* <!-- header --> */}

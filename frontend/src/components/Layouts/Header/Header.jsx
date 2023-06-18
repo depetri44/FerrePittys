@@ -18,7 +18,7 @@ const Header = () => {
   const [togglePrimaryDropDown, setTogglePrimaryDropDown] = useState(false);
   // const [toggleSecondaryDropDown, setToggleSecondaryDropDown] = useState(false);
 
-  return (
+  return ( 
 
     <header className="bg-black fixed top-0 py-2.5 w-full z-10">
 

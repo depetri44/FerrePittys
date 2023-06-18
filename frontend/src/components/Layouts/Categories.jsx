@@ -7,7 +7,7 @@ import appliances from '../../assets/images/Categories/appliances.png';
 import furniture from '../../assets/images/Categories/furniture.png'; 
 import { Link } from 'react-router-dom';
 
-const catNav = [
+const catNav = [ 
     {
         name: "Electronicos",
         icon: electronics,
