@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ddc829f6.css",
+    "main.js": "/static/js/main.1942d4fe.js",
+    "static/media/fashionsale.jpg": "/static/media/fashionsale.391cadf3f00b9951c099.jpg",
+    "static/media/kitchen-sale.jpg": "/static/media/kitchen-sale.391cadf3f00b9951c099.jpg",
+    "static/media/realme-9-pro.jpg": "/static/media/realme-9-pro.391cadf3f00b9951c099.jpg",
+    "static/media/gadget-sale.jpg": "/static/media/gadget-sale.8ed686660b75eff48be6.jpg",
+    "static/media/oppo-reno7.jpg": "/static/media/oppo-reno7.8ed686660b75eff48be6.jpg",
+    "static/media/poco-m4-pro.jpg": "/static/media/poco-m4-pro.8ed686660b75eff48be6.jpg",
+    "static/media/logo.png": "/static/media/logo.3060c5a1a2eed49190b3.png",
+    "static/media/phone.png": "/static/media/phone.a1875642f198123821bd.png",
+    "static/media/travel.png": "/static/media/travel.53b66bca231eccdb9e7b.png",
+    "static/media/payment-methods.svg": "/static/media/payment-methods.988eb4961d60369cbc3b112cffb05261.svg",
+    "static/media/404-not-found.svg": "/static/media/404-not-found.f58b723c5e420e43683574327be5529a.svg",
+    "static/media/home.png": "/static/media/home.7d176f322fc6454333fa.png",
+    "static/media/electronics.png": "/static/media/electronics.a2af56c1e04586f0f65e.png",
+    "static/media/furniture.png": "/static/media/furniture.b50ea95f0ead5b4a7fa4.png",
+    "static/media/fashion.png": "/static/media/fashion.e90e0d4ec408d22af2a7.png",
+    "static/media/appliances.png": "/static/media/appliances.3e7c30a5f433ef5dee8b.png",
+    "static/media/success.png": "/static/media/success.a6e71fb67ec0538ff2ee.png",
+    "static/media/failed.png": "/static/media/failed.25f9a5080785b1e6642c.png",
+    "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/index.html",
+    "main.ddc829f6.css.map": "/static/css/main.ddc829f6.css.map",
+    "main.1942d4fe.js.map": "/static/js/main.1942d4fe.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ddc829f6.css",
+    "static/js/main.1942d4fe.js"
+  ]
+}
