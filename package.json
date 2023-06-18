@@ -37,8 +37,6 @@
   },
   "devDependencies": {
     "concurrently": "^7.3.0",
-    "nodemon": "^2.0.19",
-    "react-scripts": "^5.0.1",
-    "rollup": "^3.25.1"
+    "nodemon": "^2.0.19"
   }
 }
