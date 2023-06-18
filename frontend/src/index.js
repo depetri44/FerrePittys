@@ -6,19 +6,16 @@ import { BrowserRouter as Router } from 'react-router-dom';
 import { Provider } from 'react-redux';
 import store from './store';
 import { SnackbarProvider } from 'notistack';
-import { CssBaseline } from '@mui/material';
-import '../node_modules/bootstrap/dist/css/bootstrap.css';
+import { CssBaseline } from '@mui/material'; 
 
-
-const root = ReactDOM.createRoot(document.getElementById('root'));
-root.render( 
+ReactDOM.render(
   <React.StrictMode>
     <Provider store={store}>
       <SnackbarProvider
         maxSnack={2}
         anchorOrigin={{
-          vertical: 'top',
-          horizontal: 'right',
+          vertical: 'bottom',
+          horizontal: 'center',
         }}
       >
         <Router>
@@ -28,5 +25,6 @@ root.render(
         </Router>
       </SnackbarProvider>
     </Provider>
-  </React.StrictMode> 
+  </React.StrictMode>,
+  document.getElementById('root')
 );
