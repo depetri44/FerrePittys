@@ -1,0 +1,25 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+    background-color: #f1f3f6;
+    font-family: 'Roboto', sans-serif;
+}
+
+/* hover navbar dropdown arrow */
+.arrow_down {
+  border-left: 11px solid transparent;
+  border-right: 11px solid transparent;
+  border-bottom: 11px solid #fff;
+}
+/* hover navbar dropdown arrow */
+
+/* login signup sidebar bg image */
+.loginSidebar {
+    background-image: url("assets/images/logo.png");
+    background-position: center 100%;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+/* login signup sidebar bg image */
